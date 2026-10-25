@@ -1,0 +1,22 @@
+{
+    "name": "vector-c17",
+    "displayName": "VECTOR//C17",
+    "description": "A dark technical C/C++ coding theme inspired by futuristic systems, with blue, green and orange syntax.",
+    "version": "0.0.1",
+    "publisher": "THEREBELONE",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VECTOR//C17",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vector-c17-color-theme.json"
+            }
+        ]
+    }
+}
